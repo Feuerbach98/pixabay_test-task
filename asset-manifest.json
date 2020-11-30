@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/pixabay_test-task/static/css/main.2a470678.chunk.css",
-    "main.js": "/pixabay_test-task/static/js/main.de4b8593.chunk.js",
-    "main.js.map": "/pixabay_test-task/static/js/main.de4b8593.chunk.js.map",
-    "runtime-main.js": "/pixabay_test-task/static/js/runtime-main.d84aa754.js",
-    "runtime-main.js.map": "/pixabay_test-task/static/js/runtime-main.d84aa754.js.map",
+    "main.css": "/pixabay_test-task/static/css/main.5a482e58.chunk.css",
+    "main.js": "/pixabay_test-task/static/js/main.1e5d53a7.chunk.js",
+    "main.js.map": "/pixabay_test-task/static/js/main.1e5d53a7.chunk.js.map",
+    "runtime-main.js": "/pixabay_test-task/static/js/runtime-main.77ae2bf2.js",
+    "runtime-main.js.map": "/pixabay_test-task/static/js/runtime-main.77ae2bf2.js.map",
     "static/css/2.1a02f21c.chunk.css": "/pixabay_test-task/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.4210dca0.chunk.js": "/pixabay_test-task/static/js/2.4210dca0.chunk.js",
-    "static/js/2.4210dca0.chunk.js.map": "/pixabay_test-task/static/js/2.4210dca0.chunk.js.map",
-    "static/js/3.2be87dfc.chunk.js": "/pixabay_test-task/static/js/3.2be87dfc.chunk.js",
-    "static/js/3.2be87dfc.chunk.js.map": "/pixabay_test-task/static/js/3.2be87dfc.chunk.js.map",
+    "static/js/2.8bd11f36.chunk.js": "/pixabay_test-task/static/js/2.8bd11f36.chunk.js",
+    "static/js/2.8bd11f36.chunk.js.map": "/pixabay_test-task/static/js/2.8bd11f36.chunk.js.map",
+    "static/js/3.384a7eff.chunk.js": "/pixabay_test-task/static/js/3.384a7eff.chunk.js",
+    "static/js/3.384a7eff.chunk.js.map": "/pixabay_test-task/static/js/3.384a7eff.chunk.js.map",
     "index.html": "/pixabay_test-task/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/pixabay_test-task/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.2a470678.chunk.css.map": "/pixabay_test-task/static/css/main.2a470678.chunk.css.map",
-    "static/js/2.4210dca0.chunk.js.LICENSE.txt": "/pixabay_test-task/static/js/2.4210dca0.chunk.js.LICENSE.txt",
-    "static/media/Search.css": "/pixabay_test-task/static/media/Spinner-1s-200px.c361dcfc.svg"
+    "static/css/main.5a482e58.chunk.css.map": "/pixabay_test-task/static/css/main.5a482e58.chunk.css.map",
+    "static/js/2.8bd11f36.chunk.js.LICENSE.txt": "/pixabay_test-task/static/js/2.8bd11f36.chunk.js.LICENSE.txt",
+    "static/media/Image.css": "/pixabay_test-task/static/media/Spinner-1s-200px.c361dcfc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d84aa754.js",
+    "static/js/runtime-main.77ae2bf2.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.4210dca0.chunk.js",
-    "static/css/main.2a470678.chunk.css",
-    "static/js/main.de4b8593.chunk.js"
+    "static/js/2.8bd11f36.chunk.js",
+    "static/css/main.5a482e58.chunk.css",
+    "static/js/main.1e5d53a7.chunk.js"
   ]
 }
