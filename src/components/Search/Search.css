@@ -1,19 +1,3 @@
-.image {
-  min-height: 100px;
-  width: 100%;
-  margin-bottom: 30px;
-  transition: box-shadow 0.2s;
-  background-image: url(../../assets/Spinner-1s-200px.svg);
-  /* background-size: 100%; */
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.image:hover {
-  cursor: pointer;
-  box-shadow: 0 0 10px 1px gray;
-}
-
 .count {
   min-width: 65px;
 }
@@ -24,12 +8,12 @@
   width: auto;
 }
 
-.my-masonry-grid_column {
+.my-masonry-grid__column {
   padding-left: 30px;
   background-clip: padding-box;
 }
 
-.my-masonry-grid_column > div {
+.my-masonry-grid__column > div {
   background: grey;
   margin-bottom: 30px;
 }

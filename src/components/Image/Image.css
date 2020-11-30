@@ -1,0 +1,17 @@
+.image {
+  min-height: 100px;
+  width: 100%;
+  margin-bottom: 30px;
+  transition: box-shadow 0.2s;
+}
+
+.preload-image {
+  background-image: url(../../assets/Spinner-1s-200px.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.image:hover {
+  cursor: pointer;
+  box-shadow: 0 0 10px 1px gray;
+}
