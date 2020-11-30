@@ -2,6 +2,7 @@ import React from 'react';
 import { Form } from 'react-bootstrap';
 import { useDispatch } from 'react-redux';
 import { actions } from '../../store/store';
+import './Inputs.css';
 
 export const Inputs = ({ query, perPage }) => {
   const dispatch = useDispatch();
@@ -17,10 +18,11 @@ export const Inputs = ({ query, perPage }) => {
   }
 
   return (
-    <Form className="d-flex d-flex justify-content-between">
+    <Form className="d-flex justify-content-between">
       <Form.Group>
         <Form.Control
           name="query"
+          className="input"
           type="search"
           value={query}
           onChange={handleChange}
@@ -31,7 +33,7 @@ export const Inputs = ({ query, perPage }) => {
       <Form.Group className="d-flex align-items-center">
         <Form.Label className="my-0 mx-2">Count:</Form.Label>
         <Form.Control
-          className="count"
+          className="count input"
           as="select"
           value={perPage}
           onChange={handleChange}
